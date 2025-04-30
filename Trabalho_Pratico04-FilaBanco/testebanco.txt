@@ -1,0 +1,21 @@
+g Rodrigo
+g Bia
+p Joel
+s
+g Fatima
+p Frederico
+p Luciana
+s
+s
+p Fabiana
+p Elen
+p Fabio
+g Valter
+s
+s
+s
+s
+s
+s
+s
+f
